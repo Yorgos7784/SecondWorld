@@ -1,2 +1,0 @@
-# SecondWorld
-This is SecondWorld
